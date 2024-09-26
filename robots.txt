@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gebelin.github.io/sitemap.gebelin.gz
+Sitemap: https://gebelin.github.io/app/sitemap.gebelin.gz
+Sitemap: https://gebelin.github.io/assets/sitemap.gebelin.gz
+Sitemap: https://gebelin.github.io/css/sitemap.gebelin.gz
+Sitemap: https://gebelin.github.io/data/sitemap.gebelin.gz
+Sitemap: https://gebelin.github.io/includes/sitemap.gebelin.gz
+Sitemap: https://gebelin.github.io/item/sitemap.gebelin.gz
+Sitemap: https://gebelin.github.io/src/sitemap.gebelin.gz
